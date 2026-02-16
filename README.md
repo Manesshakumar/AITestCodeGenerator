@@ -6,7 +6,7 @@
 This project automaticall![GIFTestcode](https://github.com/user-attachments/assets/092d63d7-9e36-40dc-a9cc-651fa4aa4915)
 y generates **Selenium + TestNG test classes** in Java from user stories using the **Gemini-2.5-Flash** AI model. The generated tests include:
 
-- Screenshots on test failure with attachment to reports using **MediaEntityBuilder**.
+- Screenshots on test failure with attachment
 - Clear and maintainable test code with proper **TestNG assertions**.
 - One `@Test` method per logical test case.
 
